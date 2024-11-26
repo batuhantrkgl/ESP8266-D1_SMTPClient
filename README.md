@@ -15,7 +15,7 @@ The `SMTPClient` library allows you to send emails using an ESP8266 microcontrol
 2. Include the library in your sketch:
 
 ```cpp
-#include <SMTPClient.h>
+#include <ESP8266_SMTPClient.h>
 ```
 
 ## Usage
