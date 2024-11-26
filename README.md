@@ -64,5 +64,7 @@ Send a plain text email.
 
 > `bool sendMailWithAttachment(const String& sender, const String& recipient, const String& subject, const String& message, const String& filePath)`
 
+send a email with attachment.
+
 ## License
 This project is licensed under the [MIT License](licence)
