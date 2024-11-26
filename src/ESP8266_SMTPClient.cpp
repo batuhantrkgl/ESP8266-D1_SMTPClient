@@ -1,4 +1,4 @@
-#include "SMTPClient.h"
+#include "ESP8266_SMTPClient.h"
 #include <Base64.h> // Include the Base64 library
 
 SMTPClient::SMTPClient() {}
